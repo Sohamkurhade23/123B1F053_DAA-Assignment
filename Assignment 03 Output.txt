@@ -1,0 +1,42 @@
+﻿Assignment 03 Output:
+
+
+=== Emergency Relief Supply Distribution ===
+Enter number of relief items: 3
+
+
+Item #1
+Name: water bottle
+Weight (kg): 5
+Importance Value: 700
+Divisible? (1 = yes, 0 = no): 0
+
+
+Item #2
+Name: maggie
+Weight (kg): 2
+Importance Value: 500
+Divisible? (1 = yes, 0 = no): 1
+
+
+Item #3
+Name: chips
+Weight (kg): 1
+Importance Value: 600
+Divisible? (1 = yes, 0 = no): 1
+
+
+Enter boat capacity (kg): 10
+
+
+=== Supplies Loaded on Boat ===
+ - chips: 1.00 kg, Importance: 600.00
+ - maggie: 2.00 kg, Importance: 500.00
+ - water bottle: 5.00 kg, Importance: 700.00
+
+
+Total importance carried: 1800.00
+Execution time: 3.480 ms
+
+
+=== Code Execution Successful ===

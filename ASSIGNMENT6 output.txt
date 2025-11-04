@@ -1,0 +1,104 @@
+Enter Truck Capacity (kg): 200
+
+--- Brute Force Approach ---
+Max Utility: 1205
+Execution Time: 2.754 ms
+
+Optimal Set of Items (DP):
+Instant Meals
+Oxygen Cylinders
+Power Banks
+Dry Fruits
+Satellite Phone
+Flashlights
+Batteries
+Fuel Cans
+First Aid Kits
+Tents
+Food Supplies
+Medical Kits
+
+--- Dynamic Programming Approach ---
+Max Utility (DP): 1205
+Execution Time: 0.785 ms
+
+Selected Items (Greedy Approximation):
+Satellite Phone
+Power Banks
+First Aid Kits
+Dry Fruits
+Flashlights
+Batteries
+Instant Meals
+Medical Kits
+Oxygen Cylinders
+Food Supplies
+Water Bottles
+Tents
+
+--- Greedy Approximation Approach ---
+Approx Utility (Greedy): 1195.0
+Execution Time: 1.057 ms
+
+Multi-Truck Allocation:
+
+Truck 1 (Capacity: 200 kg)
+
+Optimal Set of Items (DP):
+Fuel Cans
+Tents
+Food Supplies
+Oxygen Cylinders
+Medical Kits
+Instant Meals
+Batteries
+Flashlights
+Dry Fruits
+First Aid Kits
+Power Banks
+Satellite Phone
+Total Utility for Truck 1: 1205
+
+Truck 2 (Capacity: 220 kg)
+
+Optimal Set of Items (DP):
+Blankets
+Tents
+Water Bottles
+Food Supplies
+Oxygen Cylinders
+Medical Kits
+Instant Meals
+Batteries
+Flashlights
+Dry Fruits
+First Aid Kits
+Power Banks
+Satellite Phone
+Total Utility for Truck 2: 1275
+
+Truck 3 (Capacity: 240 kg)
+
+Optimal Set of Items (DP):
+Blankets
+Clothes
+Tents
+Water Bottles
+Food Supplies
+Oxygen Cylinders
+Medical Kits
+Instant Meals
+Batteries
+Flashlights
+Dry Fruits
+First Aid Kits
+Power Banks
+Satellite Phone
+Total Utility for Truck 3: 1335
+
+Performance Comparison Summary:
+Brute Force Time: 2.754 ms
+Dynamic Programming Time: 0.785 ms
+Greedy Approximation Time: 1.057 ms
+
+Process finished with exit code 0

@@ -1,0 +1,38 @@
+﻿Assignment 01 Output:
+
+
+========== CUSTOMER ORDERS ==========
+
+
+Before Sorting:
+Order ID: O01 | Timestamp: 1700000100000
+Order ID: O02 | Timestamp: 1699999999000
+Order ID: O03 | Timestamp: 1700000200000
+Order ID: O04 | Timestamp: 1699999950000
+Order ID: O05 | Timestamp: 1700000300000
+Order ID: O06 | Timestamp: 1700000000000
+Order ID: O07 | Timestamp: 1699999900000
+Order ID: O08 | Timestamp: 1700000500000
+Order ID: O09 | Timestamp: 1699999850000
+Order ID: O10 | Timestamp: 1700000400000
+Order ID: O11 | Timestamp: 1700000000000
+
+
+After Sorting (by Timestamp):
+Order ID: O09 | Timestamp: 1699999850000
+Order ID: O07 | Timestamp: 1699999900000
+Order ID: O04 | Timestamp: 1699999950000
+Order ID: O02 | Timestamp: 1699999999000
+Order ID: O06 | Timestamp: 1700000000000
+Order ID: O11 | Timestamp: 1700000000000
+Order ID: O01 | Timestamp: 1700000100000
+Order ID: O03 | Timestamp: 1700000200000
+Order ID: O05 | Timestamp: 1700000300000
+Order ID: O10 | Timestamp: 1700000400000
+Order ID: O08 | Timestamp: 1700000500000
+
+
+Time Taken: 0.02002 ms
+
+
+=== Code Execution Successful ===

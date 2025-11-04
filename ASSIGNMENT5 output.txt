@@ -1,0 +1,16 @@
+Enter total number of nodes in the multistage network: 6
+Enter number of routes: 7
+Enter route details as: fromNode toNode cost/time
+0 1 2
+0 2 4
+1 3 7
+1 4 3
+2 4 2
+3 5 1
+4 5 5
+Enter source node: 0
+Enter destination node: 5
+
+--- Optimal Delivery Route ---
+Path: 0 -> 1 -> 3 -> 5
+Execution time: 0.142 ms
